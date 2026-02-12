@@ -36,7 +36,7 @@ El repositorio contiene los siguientes documentos:
 1. **Ejercicio 1 – Fase 1**: documento `.ipynb` con la instalación y uso de librerías, llamada a la API y tratamiento de datos con Pandas.
 2. **Ejercicio 1 – Fases 2, 3 y 4**: documento `.sql` con la creación de la base de datos, inserción de datos y consultas.
 3. **Diagrama de la base de datos**: archivo `.png` como apoyo visual para comprender la estructura y las relaciones entre tablas.
-4. **Ejercicio 2**: documento `.ipynb` con la conexión y consultas a una base de datos preinstalada.
+4. **Ejercicio 2**: documento `.sql` con la conexión y consultas a una base de datos preinstalada.
 
 **Nota:** Este es un proyecto académico, por lo que algunas consultas presentan distintas opciones de resolución con fines de aprendizaje. 
 
